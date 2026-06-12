@@ -67,6 +67,7 @@ export function WelcomeScreen({ onStart, onVerTierlist }: Props) {
       <div className="bg-white/5 border border-white/10 p-6 rounded-3xl max-w-sm text-left space-y-4">
         <h2 className="font-bold text-white uppercase tracking-widest text-sm">Cómo jugar</h2>
         <ul className="text-white/70 text-sm space-y-3">
+          <li>• Tener en cuenta vuestro instinto, no lo que veais en la imagen en todo momento significa VCT.</li>
           <li>• Aparecerá la imagen de un personaje.</li>
           <li>• ¿Es un jugador de <b>VCT</b> o alguien de <b>Interpol</b>?</li>
           <li>• ¡Haz la racha más larga posible!</li>
