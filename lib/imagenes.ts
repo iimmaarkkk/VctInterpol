@@ -19,6 +19,14 @@ export const niveles = {
     { url: "/players/p9.png", esInterpol: false, nombre: "Sujeto #9" },
     { url: "/players/p10.jpg", esInterpol: false, nombre: "Sujeto #10" },
     { url: "/players/p11.jpg", esInterpol: true, nombre: "Sujeto #11" },
-    { url: "/players/p12.jpg", esInterpol: true, nombre: "Sujeto #12" },
+    { url: "/players/p12.jpg", esInterpol: false, nombre: "Sujeto #12" },
+  ],
+  dificil: [
+    { url: "/players/p13.jpg", esInterpol: false, nombre: "Sujeto #13" },
+    { url: "/players/p14.jpg", esInterpol: true, nombre: "Sujeto #14" },
+    { url: "/players/p2.jpeg", esInterpol: true, nombre: "Sujeto #15" },
+    { url: "/players/p15.png", esInterpol: false, nombre: "Sujeto #16" },
+    { url: "/players/p16.jpg", esInterpol: false, nombre: "Sujeto #17" },
+    { url: "/players/p17.png", esInterpol: false, nombre: "Sujeto #18" },
   ],
 }
